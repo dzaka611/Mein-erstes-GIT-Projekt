@@ -1,2 +1,2 @@
 # Mein-erstes-GIT-Projekt
-Hier werde ich meine erse Git-Aufgabe erledigen.
+Hier werde ich meine erste Git-Aufgabe erledigen.
